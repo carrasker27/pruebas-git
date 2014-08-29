@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 primer commit
 
 parte final del commit
+=======
+Primer commit 
+
+segundo commit
+>>>>>>> cb9ad88f47b7da28718eb20f0cef967d53f164c8
