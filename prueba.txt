@@ -2,4 +2,8 @@ Primer commit
 
 parte final del commit
 
+<<<<<<< HEAD
 parte tres
+=======
+parte dos
+>>>>>>> 82715133477262cdbdfc43d05dab0eb4b369393d
